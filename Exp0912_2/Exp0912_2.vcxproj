@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Note.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />

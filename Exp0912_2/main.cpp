@@ -22,6 +22,8 @@ using std::endl;
 
 
 //F5	调试
+//Ctrl+C	复制一整行，不用选中
+//Ctrl+D	直接将当前行粘贴到下一行去
 //Ctrl+S	保存
 //Ctrl+C	加速
 //Ctrl+V	加速
